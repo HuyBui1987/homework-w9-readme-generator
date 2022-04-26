@@ -42,6 +42,8 @@ THEN I am taken to the corresponding section of the README
 The following image shows the web application's appearance and functionality:
 
 ![the process and generated readme file after the process](./asset/Screen Shot 2022-04-26 at 10.56.30 am.png)
+
+
 ![the process and generated readme file after the process](./asset/Screen Shot 2022-04-26 at 10.57.47 am.png)
 
 ## Link to Deployed Application
